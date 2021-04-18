@@ -1,0 +1,19 @@
+{
+  "name": "NodeJS Eggdrop",
+  "version": "0.0.1",
+  "description": "NodeJS Eggdrop Baby.",
+  "main": "eggdrop.js",
+  "scripts": {
+    "start": "node eggdrop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "irc": "^0.5.2",
+    "request": "^2.88.0"
+  }
+}
