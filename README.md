@@ -8,7 +8,7 @@ Using node-irc library: https://github.com/martynsmith/node-irc
 Installing:
 
 1) git clone https://github.com/albxteam/eggdrop.git
-2) cd eggnodejs
+2) cd eggdrop
 3) npm install
 4) npm install irc
 5) npm install request
